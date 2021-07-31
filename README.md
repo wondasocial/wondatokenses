@@ -1,7 +1,7 @@
 # wondatokenses
 Tokenleri Yazıp Ses 'İd'lerini yazdıktan sonra aktif olur. 
 
-**Kurulum
+**Kurulum**
 
 **1-** *Klasörün İçinde Cmd Veya PowerShell İle Açınız.*
 
