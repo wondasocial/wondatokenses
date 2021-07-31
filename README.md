@@ -1,4 +1,4 @@
-#tokenleri sese sokma
+
 Tokenleri Yazıp Ses 'İd'lerini yazdıktan sonra aktif olur. 
 
 **Kurulum**
