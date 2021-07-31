@@ -1,4 +1,4 @@
-# wondatokenses
+#Tokenleri Sese Sokma
 Tokenleri Yazıp Ses 'İd'lerini yazdıktan sonra aktif olur. 
 
 **Kurulum**
