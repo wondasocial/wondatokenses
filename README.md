@@ -1,4 +1,4 @@
-#Tokenleri Sese Sokma
+#tokenleri sese sokma
 Tokenleri Yazıp Ses 'İd'lerini yazdıktan sonra aktif olur. 
 
 **Kurulum**
@@ -6,3 +6,6 @@ Tokenleri Yazıp Ses 'İd'lerini yazdıktan sonra aktif olur.
 **1-** *Klasörün İçinde Cmd Veya PowerShell İle Açınız.*
 
 **2-** *npm i discord.js Yazdıktan Sonra Başlat.bat Dosyasını Çalıştıra Bilirsiniz.*
+
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/389168690899320842)](https://discord.com/users/389168690899320842)
